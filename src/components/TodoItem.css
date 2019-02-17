@@ -10,3 +10,8 @@
     font-size: 15px;
     color: #333333;
 }
+
+.completed {
+  color: #8f9193;
+  text-decoration: line-through;
+}
